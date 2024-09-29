@@ -1,12 +1,22 @@
 {
-	"name": "dry-cool-uni",
-	"version": "1.8.31",
-	"description": "",
-	"main": "index.js",
-	"scripts": {},
-	"author": "icssoa",
-	"license": "Apache-2.0",
-	"keywords": [],
-	"homepage": "https://github.com/thefunpower-app/dry-cool-uni",
-	"sideEffects": false
+  "name": "dry-cool-uni",
+  "version": "1.8.31",
+  "description": "~~~\r yarn add dry-cool-uni\r ~~~",
+  "main": "index.js",
+  "scripts": {},
+  "author": "icssoa",
+  "license": "Apache-2.0",
+  "keywords": [],
+  "homepage": "https://github.com/thefunpower-app/dry-cool-uni",
+  "sideEffects": false,
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thefunpower-app/dry-cool-uni.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thefunpower-app/dry-cool-uni/issues"
+  }
 }
