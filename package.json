@@ -1,5 +1,5 @@
 {
-	"name": "cl-uni-2",
+	"name": "dry-cool-uni",
 	"version": "1.8.31",
 	"description": "",
 	"main": "index.js",
@@ -7,6 +7,6 @@
 	"author": "icssoa",
 	"license": "Apache-2.0",
 	"keywords": [],
-	"homepage": "https://uni-docs.cool-js.com/uni/components/feedback/toast.html",
+	"homepage": "https://github.com/thefunpower-app/dry-cool-uni",
 	"sideEffects": false
 }

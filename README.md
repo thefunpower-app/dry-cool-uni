@@ -1,7 +1,7 @@
 ## 安装
 
 ~~~
-yarn add cl-uni-2
+yarn add dry-cool-uni
 ~~~
 
 ## 手册
